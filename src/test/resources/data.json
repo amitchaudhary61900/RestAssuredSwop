@@ -1,0 +1,73 @@
+[
+	
+	{
+	
+	"-------------------------------------":"USER GET FORM-DATA",
+	"phone_number":"7010885",
+	"street_name":"Oslo",
+	"zipCode":"2061",
+	"streetNumber":"6 A",
+	"city":"Oslo",
+	"country":"Norway",
+	"lon":"234.33",
+	"lan":"32.22",
+	"file":"/Users/amit/Desktop/My_Folder/YMIR/Projects/Swopper/image.png",
+	
+	"setLang":"en",
+	
+	
+	"---------------------------------------":"PRODUCT POST Add product",
+	"cover":"/src//test//resources//productImage01.webp",
+	"images01":"/src//test//resources//productImage02.webp",
+	"images02":"/src//test//resources//productImage03.webp",
+	"title":"Thar Ymir",
+	"price":"500",
+	"description":"The Mahindra Thar has 2 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2184 cc and 1497 cc while the Petrol engine is 1997 cc . It is available with Automatic & Manual transmission.Depending upon the variant and fuel type the Thar has a mileage of 15.2 kmpl & Ground clearance of Thar is 226 mm. The Thar is a 4 seater 4 cylinder car and has length of 3985 mm, width of 1820 mm and a wheelbase of 2450 mm.",
+	"quality":"New",
+	"age":"New",
+	"Product_street_name":"6 A",
+	"zip_code":"2061",
+	"street_number":"6",
+	"Product_city":"Oslo",
+	"Product_country":"Norway",
+	"longitude":"23.2599",
+	"latitude":"77.4126",
+	"preferedSubCategories0":"2",
+	"preferedSubCategories1":"5",
+	"swopDescription":"The convertible top adds a fun, open air element to the driving experience. While not as refined as some urban SUVs, the Thars charm lies in its ability to conquer challenging terrains with ease. "
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+   }
+
+]
+
